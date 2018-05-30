@@ -15,7 +15,7 @@
         "administrcms/form": "*",
         "administrcms/asset-manager": "*",
         "administrcms/localization": "*",
-        "administrcms/listview": "*",
+        "administrcms/listview": "0.0.29",
         "administrcms/query-filters": "*"
     },
     "autoload": {
